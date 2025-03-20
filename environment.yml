@@ -1,0 +1,15 @@
+# conda env create -f environment.yml
+name: cs578-fire-env
+channels:
+  - conda-forge
+dependencies:
+  - xarray
+  - zarr
+  - matplotlib
+  - cartopy
+  - numpy
+  - tqdm
+  - pytorch
+  - ipykernel
+  - netcdf4
+  - cdsapi

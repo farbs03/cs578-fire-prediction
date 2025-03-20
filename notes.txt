@@ -1,0 +1,6 @@
+Daily VIIRS fire data: https://search.earthdata.nasa.gov/search/granules?p=C1942970257-LANCEMODIS&pg[0][v]=f&pg[0][gsk]=-start_date&q=VIIRS%20fire&tl=1740423997.46!3!!&lat=1.968066044354913&long=-276.75&zoom=0
+guide: https://viirsland.gsfc.nasa.gov/PDF/VIIRS_activefire_User_Guide.pdf
+
+NOAA daily fire data: https://www.ospo.noaa.gov/products/land/hms.html#data
+    - in txt file format
+    - within each file, has the specific hour of occurrence
