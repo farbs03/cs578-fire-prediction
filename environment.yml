@@ -13,3 +13,4 @@ dependencies:
   - ipykernel
   - netcdf4
   - cdsapi
+  - xgboost
