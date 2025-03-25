@@ -4,3 +4,7 @@ guide: https://viirsland.gsfc.nasa.gov/PDF/VIIRS_activefire_User_Guide.pdf
 NOAA daily fire data: https://www.ospo.noaa.gov/products/land/hms.html#data
     - in txt file format
     - within each file, has the specific hour of occurrence
+
+
+
+https://confluence.ecmwf.int/display/CKB/ERA5:+What+is+the+spatial+reference
