@@ -4,6 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - xarray
+  - rioxarray
   - zarr
   - matplotlib
   - cartopy
@@ -14,3 +15,4 @@ dependencies:
   - netcdf4
   - cdsapi
   - xgboost
+  - ee
