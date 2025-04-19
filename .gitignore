@@ -1,3 +1,4 @@
 fire_data/noaa/clean
 fire_data/noaa/raw
 geotiffs/
+notebooks/models/inputs.pt
